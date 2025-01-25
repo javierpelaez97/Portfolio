@@ -1,0 +1,25 @@
+.disposicion{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+   
+}
+
+
+
+img{
+    margin: 10px;
+    max-height: 400px;
+}
+
+ .disposicion > button {
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a :hover{
+    color: black;
+}

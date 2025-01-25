@@ -1,0 +1,12 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 10px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 25px;
+}
+p{
+    margin: 0;
+}
