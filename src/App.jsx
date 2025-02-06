@@ -4,8 +4,14 @@ import About from './components/About/About'
 import Tecnologias from './components/technologies/Tecnologias'
 import Experience from './components/experience/Experience'
 import Projects from './components/projects/Projects'
+import {db} from './database/db.js'
+import { useState } from 'react'
 
 function App() {
+
+  const [datos] = useState(db)
+
+  
 
   return (
     
@@ -16,11 +22,13 @@ function App() {
         <hr />
         <Tecnologias></Tecnologias>
         <Experience></Experience>
-        <Projects></Projects>
+        <Projects datos = {datos}></Projects>
       </div>
+        
 
      </div>
     </>
+    
   )
 }
 

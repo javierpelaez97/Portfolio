@@ -13,7 +13,7 @@ export default function Tecnologias(){
         <>
         <div className="container ">
             <h2>Tecnologías</h2>
-            <div class="row ">
+            <div className="row ">
                     <div className=" btn col ">
                         <img src={htmlIcon} alt="Icono HTML"  className="m-0"/>
                         <p>HTML</p>
