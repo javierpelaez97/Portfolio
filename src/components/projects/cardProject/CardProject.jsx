@@ -2,7 +2,7 @@
 import gitIcon from "../../../../public/assets/svg/git.svg";
 import linkIcon from "../../../../public/assets/svg/icon.svg";
 import { useEffect } from "react";
-
+import prueba from "../../../../public/assets/img/ToDo-List.png"
 
 export default function CardProject({datos}) {
 
@@ -20,7 +20,7 @@ export default function CardProject({datos}) {
           <div className="row g-0">
             <div className="col-md-4  ">
               <a href="https://todolistjjpg.netlify.app/" target="_blank">
-                <img src={datos.imagen} alt="" className="img-fluid rounded-start" />
+                <img src={prueba} alt="" className="img-fluid rounded-start" />
               </a>
             </div>
             
