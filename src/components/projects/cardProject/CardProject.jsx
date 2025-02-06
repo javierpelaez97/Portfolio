@@ -1,4 +1,4 @@
-import prueba from "../../../assets/Prueba-carta.png";
+import prueba from "../../../../public/img/ToDo-List.png";
 
 export default function CardProject() {
   return (

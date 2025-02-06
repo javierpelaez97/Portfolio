@@ -42,7 +42,7 @@ export default function Experience(){
                     <h5>FullStack developer</h5>
                     <p className="fw-light">
                         Creación de administración de webs para la pequeña empresa utilizando las
-                        tecnologías antes mencionadas
+                        tecnologías antes mencionadas, tambien pequeños proyectos en webs de freelance.
                     </p>
                 </div>
                 <div className="col-sm">
