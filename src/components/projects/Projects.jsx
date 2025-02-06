@@ -12,6 +12,7 @@ export default function Projects ({datos}){
         {datos.map((x)=>(
 
              <CardProject key={x.id} datos={x}></CardProject> 
+           
             
         ))}
     </div>

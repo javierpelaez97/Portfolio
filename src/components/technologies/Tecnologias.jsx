@@ -1,12 +1,12 @@
 import "./Tecnologias.css"
 
-import reactIcon from "../../../public/assets/svg/React.svg"
-import jsIcon from "../../../public/assets/svg/JavaScript.svg"
-import htmlIcon from "../../../public/assets/svg/html.svg"
-import cssIcon from "../../../public/assets/svg/css.svg"
-import angularIcon from "../../../public/assets/svg/angular.svg"
-import NodeJsIcon from "../../../public/assets/svg/node.svg"
-import gitIcon from "../../../public/assets/svg/git.svg"
+import reactIcon from "../../../public/svg/React.svg"
+import jsIcon from "../../../public/svg/JavaScript.svg"
+import htmlIcon from "../../../public/svg/html.svg"
+import cssIcon from "../../../public/svg/css.svg"
+import angularIcon from "../../../public/svg/angular.svg"
+import NodeJsIcon from "../../../public/svg/node.svg"
+import gitIcon from "../../../public/svg/git.svg"
 
 export default function Tecnologias(){
     return(
