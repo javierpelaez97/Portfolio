@@ -1,7 +1,8 @@
 
-import gitIcon from "../../../../public/svg/git.svg";
-import linkIcon from "../../../../public/svg/icon.svg";
+import gitIcon from "../../../../public/assets/svg/git.svg";
+import linkIcon from "../../../../public/assets/svg/icon.svg";
 import { useEffect } from "react";
+
 
 export default function CardProject({datos}) {
 
@@ -36,7 +37,7 @@ export default function CardProject({datos}) {
                 </p>
                 <div>
                   <label>Tecnologias:</label>
-
+                  
                   {(()=>{ 
                     let elementos = []
                     for (let i = 0; i < datos.tecnologias.length; i++) {
