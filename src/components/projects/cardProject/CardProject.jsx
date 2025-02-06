@@ -21,7 +21,7 @@ export default function CardProject({datos}) {
         <div className="card mb-3 text-bg-dark ">
           <div className="row g-0">
             <div className="col-md-4  ">
-              <a href="https://todolistjjpg.netlify.app/" target="_blank">
+              <a href={datos.enlace} target="_blank">
                 <img src={datos.imagen} alt="" className="img-fluid rounded-start" />
                 
               </a>
