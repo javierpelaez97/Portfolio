@@ -18,15 +18,18 @@ export const db = [
   },
   {
     id: 2,
-    name: "Pokeapi",
+    name: "Carro de la compra",
     descripcion:
-      "",
+      " Aplicacion que me ha enseñado a realizar movimientos entre componentes con hooks y props de una manera diferente ",
     disclaimer:
-      "",
-    imagen: "",
-    enlace: "",
-    git: "",
+      "Aplicación hecha usando otro tipo de hooks fuera del componenete en si",
+    imagen: "../../../../public/img/Carro-de-la-compra.png",
+    enlace: "https://carro-de-la-compra.vercel.app/",
+    git: "https://github.com/javierpelaez97/Carro-de-la-compra",
     tecnologias: [
+      "../../../../public/svg/html.svg",
+      "../../../../public/svg/css.svg",
+      "../../../../public/svg/React.svg"
       
     ],
   },

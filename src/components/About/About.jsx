@@ -20,7 +20,7 @@ export default function About() {
         <div className="disposicion col ">
           <div >
             <h1>Javier Pelaez Giménez</h1>
-            <h2>Programador web FullStack</h2>
+            <h2>Programador web FullStack Junior</h2>
             <div className="disposicion">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +96,7 @@ export default function About() {
       </div>
       <div className="container">
         <h2>Sobre mí</h2>
-        <p>Soy desarrollador Full Stack, actualmente trabajo en un ámbito relacionado con las tecnologías, actualmente estoy enfocado en seguir creciendo como programador y con muchas ganas de poder utilizar mis habilidades y conocimientos.</p>
+        <p>Soy desarrollador Full Stack Junior, actualmente trabajo en un ámbito relacionado con las tecnologías,hace 2 años empecé mi aventura en la programación estoy enfocado en seguir creciendo como programador y con muchas ganas de poder utilizar mis habilidades y conocimientos.</p>
 
       </div>
     </>

@@ -7,7 +7,7 @@ export default function Experience(){
         <div className="container">
 
          <h2>Experiencia</h2>
-         <div className="container card text-bg-dark ">
+         <div className="container card text-bg-dark p-2">
             <div className="row ">
                 <div className="col-sm">
                     
@@ -29,7 +29,7 @@ export default function Experience(){
             </div>
 
          </div>
-         <div className="container card text-bg-dark">
+         <div className="container card text-bg-dark p-2">
             <div className="row">
                 <div className="col-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" width="34" height="34" stroke-width="2">
