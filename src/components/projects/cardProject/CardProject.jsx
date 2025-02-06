@@ -51,14 +51,14 @@ export default function CardProject({datos}) {
                 <div className="col-md-4 ">
                   
                   <a
-                    href="https://todolistjjpg.netlify.app/"
+                    href={datos.enlace}
                     className="btn btn-success m-1"
                     target="_blank"
                   >
                     <img src={linkIcon} alt="Icono Link" className="m-0" />
                   </a>
                   <a
-                    href="https://github.com/javierpelaez97/ToDo-List"
+                    href={datos.git}
                     className="btn btn-success m-1"
                     target="_blank"
                   >
