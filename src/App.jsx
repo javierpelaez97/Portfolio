@@ -23,26 +23,17 @@ function App() {
         <About></About>
         <hr />
         <Tecnologias></Tecnologias>
+        <hr />
         <Experience></Experience>
+        <hr />
         <Formation></Formation>
+        <hr />
         <Projects datos = {datos}></Projects>
       </div>
      </div>
     </main>
-    <footer className='bg-dark text-white '>
-      <div className='container text-center '>
-        <div className='row'>
-          <div className='col'>
-
-          </div>
-          <div className='col'>
-            <h3>Javier Pelaez 2025</h3>
-
-          </div>
-          <div className='col'>
-          </div>
-        </div>
-      </div>
+    <footer className='bg-dark text-white d-flex justify-content-center '> 
+      <h3>Javier Pelaez 2025</h3>
     </footer>
 
     </>

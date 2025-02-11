@@ -8,10 +8,7 @@ import { useEffect } from "react";
 
 export default function CardProject({datos}) {
 
-  useEffect(()=>{
-    console.log("Datos actuales", datos.imagen);
-    
-  },[datos])
+  
 
 
 

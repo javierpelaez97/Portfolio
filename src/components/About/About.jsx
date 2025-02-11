@@ -1,6 +1,6 @@
 import "./About.css";
 import aboutImage from "../../assets/IMG_8006.png";
-import pdfFile from "../../assets/Javier Pelaez CV .pdf"
+import pdfFile from "../../assets/JavierPelaezCV.pdf"
 
 export default function About() {
 
