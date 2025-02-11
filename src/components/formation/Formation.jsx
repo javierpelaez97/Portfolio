@@ -1,4 +1,4 @@
-import "./Formation.css"
+import "./formation.css"
 import upGrade from "../../assets/upgrade.png"
 import epla from "../../assets/epla.png"
 import estudios from "../../assets/estudios.png"
